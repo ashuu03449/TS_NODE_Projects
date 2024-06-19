@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#! /usr/bin/env node
 
 // Import necessary modules
 import inquirer from "inquirer";
