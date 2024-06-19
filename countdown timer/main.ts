@@ -5,7 +5,7 @@ import chalk from "chalk";
 // Print separator line with yellow color
 console.log(chalk.yellow("<<<=========================================================================>>>"));
 // Print welcome message with blueBright color
-console.log(chalk.yellow("<<<============= ", chalk.blueBright("Welcome to code-with-ashu Calculator "), "=============>>>"));
+console.log(chalk.yellow("<<<============= ", chalk.blueBright("Welcome to code-with-ashu CountDown_Timer "), "=============>>>"));
 // Print closing separator line with yellow color
 console.log(chalk.yellow("<<<===========================================================================>>>"));
 
